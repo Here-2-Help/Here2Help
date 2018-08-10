@@ -19,6 +19,7 @@ const usersArray = [
     password: 'gianninicharles',
     profilePicture: 'https://media.licdn.com/dms/image/C5603AQEgBk_NtZI-cA/profile-displayphoto-shrink_800_800/0?e=1539216000&v=beta&t=owhW0atmdkgkX6zI4Z6UqrVu-6GOTNZGEgkv-FgmevY',
     phoneNumber: '1234567890',
+    bio:                'Passionate Software Development student coding his way through this world’s rapid advance of technology. Lifelong learner. Skilled in operating Windows PC’s using the GUI as well as learning Web Development at Ironhack.'
   },
   {
     firstName: 'Chad',
@@ -27,7 +28,8 @@ const usersArray = [
     email: 'chad@ironhack.com',
     password: 'chadbarcelo',
     profilePicture: 'https://media.licdn.com/dms/image/C4E03AQHpx8aIx3QQ8g/profile-displayphoto-shrink_800_800/0?e=1539216000&v=beta&t=_adTfH1P8cFYHsp_tO-6BgkJO1aHiChAHiqG5f-fL4Y',
-    phoneNumber: '1234567890'
+    phoneNumber: '1234567890',
+    bio:                'An aspiring web developer with a strong interest in creating websites with an enhanced user experience, clean design, and dynamic functionality. Skilled in JavaScript (Express.js, Angular 2 and Node.js), HTML5, CSS3, MongoDB. '
   },
   {
     firstName: 'Evan',
@@ -36,7 +38,9 @@ const usersArray = [
     email: 'evan@ironhack.com',
     password: 'evanlondono',
     profilePicture: 'https://media.licdn.com/dms/image/C4E03AQHhq6XMiGTglQ/profile-displayphoto-shrink_800_800/0?e=1539216000&v=beta&t=rF-ciK1F84A3pl-JYYT0ryK9CXFV7f7o77izArxfsNY',
-    phoneNumber: '1234567890'
+    phoneNumber: '1234567890',
+    bio:                `I am a graduate of Ironhack where I was exposed to Full Stack Web Development and developed three projects using the JavaScript MEAN stack (MongoDB, Express.js, Angular 2, and Node.js).
+                        Also a current student at Broward College where I am completing my computer science degree.`
   },
   {
     firstName: 'Sandra',
@@ -45,7 +49,8 @@ const usersArray = [
     email: 'sandra@ironhack.com',
     password: 'sandraboskovic',
     profilePicture: 'https://media.licdn.com/dms/image/C4D03AQGIXXCTW4uCYQ/profile-displayphoto-shrink_800_800/0?e=1539216000&v=beta&t=R5BSd9c9SOWK58MSP9urAmoH0vGzpCc3qhd1D7xWMek',
-    phoneNumber: '1234567890'
+    phoneNumber: '1234567890',
+    bio:                `Enthusiastic problem solver currently working as the Lead Teaching Assistant at Ironhack Miami. Dedicated and results driven individual with a high degree of professionalism. Demonstrated strengths include leadership, team-work, open communication and complex problem-solving.`
   },
   {
     firstName: 'Marcos',
@@ -54,7 +59,8 @@ const usersArray = [
     email: 'marcos@ironhack.com',
     password: 'marcospalacios',
     profilePicture: 'https://media.licdn.com/dms/image/C4D03AQH_GonWLjAtyQ/profile-displayphoto-shrink_800_800/0?e=1539216000&v=beta&t=41NcEk9yEHOVLqWOiHNyJjBh9c62Jk7IeKYUPwsqXrM',
-    phoneNumber: '1234567890'
+    phoneNumber: '1234567890',
+    bio:                `Since before I left high school, I've been working in the hospitality industry. I have been mainly bartending since I turned 21. Always enjoying modifying games in my free time and enjoying the challenge of making the games feel more than what they were and more in depth.`
   },
   {
     firstName: 'Manuel',
@@ -63,7 +69,8 @@ const usersArray = [
     email: 'manuel@ironhack.com',
     password: 'manuelcabrera',
     profilePicture: 'https://media.licdn.com/dms/image/C5603AQERjj4VU3RyKw/profile-displayphoto-shrink_800_800/0?e=1539216000&v=beta&t=Qs6KgHDLOcydBV45upydOYGPbuT24tcJShaWW63yt9s',
-    phoneNumber: '1234567890'
+    phoneNumber: '1234567890',
+    bio:                `I am a graduate from Iron Hack’s Web development bootcamp in Miami while working as Sous Chef at the Ritz Carlton. I have 3 years of experience in cost control management, but I longed for a change in my life and career. That’s the reason I decided to join IronHack. Learning how to code and creating innovative solutions fascinates me.`
   },
   {
     firstName: 'Nick',
@@ -72,7 +79,8 @@ const usersArray = [
     email: 'toadeater@ironhack.com',
     password: 'nicktoadeater',
     profilePicture: 'http://www.abc.net.au/news/image/5218004-3x2-940x627.jpg',
-    phoneNumber: '1234567890'
+    phoneNumber: '1234567890',
+    bio:                `I am he whomst eats toads.`
   },
   {
     firstName: 'Christine',
@@ -81,7 +89,8 @@ const usersArray = [
     email: 'christine@ironhack.com',
     password: 'christinebeck',
     profilePicture: 'https://media.licdn.com/dms/image/C4E03AQGNDn5WLN6X6g/profile-displayphoto-shrink_800_800/0?e=1539216000&v=beta&t=kr-hWgDxUICzEb8pyeGMyWXeGXv16JSNRAh2BMrRF-g',
-    phoneNumber: '1234567890'
+    phoneNumber: '1234567890',
+    bio:                `I'm currently a student at Ironhack's web development bootcamp in Miami, Florida. Before Ironhack, I was a marine science teacher at a South Florida high school. Before that, I worked as a graduate research assistant and teaching assistant in environmental science. Now, I'm learning to code, changing my career, and becoming a web developer.`
   },
   {
     firstName: 'David',
@@ -90,7 +99,8 @@ const usersArray = [
     email: 'david@ironhack.com',
     password: 'davidmudd',
     profilePicture: 'https://media.licdn.com/dms/image/C4E03AQH0Qwdss3-_ow/profile-displayphoto-shrink_800_800/0?e=1539216000&v=beta&t=nrEmBp4GVfjXqNcYS6K5BultimJOWyMCbKiw8WC4TsE',
-    phoneNumber: '1234567890'
+    phoneNumber: '1234567890',
+    bio:                `I have been crafting experiences for people for over 4 years as a sommelier and love the demands of constantly learning and creativity. I have always had a love for tech and decided to immerse myself and join Ironhack. I have 5 years of experience in Sales and Business Development in the US and Europe. Prior to that I served in the United States Air Force.`
   },
   {
     firstName: 'Jose',
@@ -100,6 +110,7 @@ const usersArray = [
     password: 'josearjona',
     profilePicture: 'https://media.licdn.com/dms/image/C4E03AQHR_GdKOOSKXw/profile-displayphoto-shrink_800_800/0?e=1539216000&v=beta&t=CHTcQW-KcbOXHlgJ-o1s3LUumhAw7-OPUo9udnCxgGE',
     phoneNumber: '1234567890',
+    bio:                `I am a recent graduate of Ironhack’s Web Development bootcamp in Miami. Previously, I worked as the Lead IT Engineer at a freight forwarding company where I managed everything tech related for 50+ people. While working there, I was able to implement some JavaScript into the workflow to automate tasks. After implementing a handful of these automations I realized I wanted to become a developer. I wanted to continue to learn and grow, and that is why I joined Ironhack. At Ironhack I was able to further develop myself into a Full Stack (MEAN) Developer. Now, I am currently seeking to break into the booming South Florida tech ecosystem and finally incorporate my past experience with my passion for learning and my coding skillset.`
   }
 ];
 
