@@ -13,6 +13,7 @@ router.post('/create/:orgId', (req, res, next) => {
     location:     req.body.location,
     startTime:    new Date(req.body.startTime),
     endTime:      new Date(req.body.endTime),
+    mainPhoto:    req.body.mainPhoto,
     status:       req.body.status,
     pictures:     [],
     reviews:      [],
