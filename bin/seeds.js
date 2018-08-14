@@ -8,6 +8,7 @@ const Review = require('../models/review');
 
 const dbName = 'server';
 mongoose.connect(process.env.MONGODB_URI);
+// mongoose.connect('mongodb://localhost:27017/Here2Help');
 
 
 const usersArray = [
